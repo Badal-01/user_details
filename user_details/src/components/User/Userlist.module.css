@@ -1,0 +1,17 @@
+.user {
+  width: 90%;
+  max-width: 45rem;
+  margin: 0.7rem auto;
+  padding: 0.4rem;
+  max-height: 20rem;
+  overflow: scroll;
+}
+.user ul {
+  list-style: none;
+  padding: 1rem;
+}
+.user li {
+  border: 1px solid rgb(24, 25, 59);
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
